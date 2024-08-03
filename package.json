@@ -4,8 +4,8 @@
   "description": "serv",
   "main": "server",
   "scripts": {
-  
-    "sarthak":"nodemon server.js"
+    "sarthak": "nodemon server.js",
+    "start": "node server.js"
   },
   "author": "sarthak",
   "license": "ISC",
