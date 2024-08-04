@@ -4,12 +4,13 @@
   "description": "serv",
   "main": "server",
   "scripts": {
-    "sarthak": "nodemon server.js",
+    "sarthak": "nodemon expressserver.js",
     "start": "node server.js"
   },
   "author": "sarthak",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.19.2",
     "nodemon": "^3.1.4"
   }
 }
